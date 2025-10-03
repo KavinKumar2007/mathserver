@@ -87,7 +87,7 @@ urlpatterns = [
 ![alt text](<Screenshot 2025-10-03 083419.png>)
 
 # OUTPUT:
-![alt text](<../project1/app1/templates/Screenshot 2025-10-03 083357.png>)
+![alt text](<Screenshot 2025-10-03 083357.png>)
 
 # RESULT:
 The program for performing server side processing is completed successfully.
