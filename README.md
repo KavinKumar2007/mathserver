@@ -86,7 +86,7 @@ urlpatterns = [
 # SERVER SIDE PROCESSING:
 ![alt text](<Screenshot 2025-10-03 083419.png>)
 
-# :
+# OUTPUT:
 ![alt text](<../project1/app1/templates/Screenshot 2025-10-03 083357.png>)
 
 # RESULT:
